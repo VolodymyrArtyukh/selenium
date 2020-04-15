@@ -2,16 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc5b367e-11d5-4047-bbfc-d8a508c6d002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/DropdownPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HoversPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dropdown/DropdownTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/login/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AlertsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/DynamicLoadingExample1Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/DynamicLoadingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/FileUploadPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/InfiniteScrollPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/KeyPressesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LargeAndDeepDomPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MultipleWindowsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/WysiwygEditorPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/EventReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/WindowManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/alerts/AlertTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/alerts/FileUploadTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/frames/FrameTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hover/HoverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/javascript/JavaScriptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/keys/KeysTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/navigation/NavigationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/wait/WaitTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/resources/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/geckodriver" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HoversPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HoversPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BaseTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/base/BaseTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/BaseTests.class" afterDir="false" />
@@ -31,98 +49,60 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1RYOTuWUp6lZhFS37DZx28Bxekw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="yaml" />
+    <property name="ignore.preview.features.used" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resources" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.DropdownTests">
-    <configuration name="BaseTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.BaseTests" />
+  <component name="RunManager" selected="TestNG.LoginTests.testSuccessfulLogin">
+    <configuration name="JavaScriptTest.testScrollToFifthParagraph" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="base.*" />
+          <option name="PATTERN" value="javascript.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="login.LoginTests" />
-      <module name="selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="login.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DropdownTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dropdown.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dropdown" />
-      <option name="MAIN_CLASS_NAME" value="dropdown.DropdownTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="javascript" />
+      <option name="MAIN_CLASS_NAME" value="javascript.JavaScriptTest" />
+      <option name="METHOD_NAME" value="testScrollToFifthParagraph" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KeysTests.testBackspace" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="login.*" />
+          <option name="PATTERN" value="keys.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="login" />
-      <option name="MAIN_CLASS_NAME" value="login.LoginTests" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
+      <option name="PACKAGE_NAME" value="keys" />
+      <option name="MAIN_CLASS_NAME" value="keys.KeysTests" />
+      <option name="METHOD_NAME" value="testBackspace" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -147,34 +127,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NavigationTest.testNavigator" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="navigation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="navigation" />
+      <option name="MAIN_CLASS_NAME" value="navigation.NavigationTest" />
+      <option name="METHOD_NAME" value="testNavigator" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavigationTest.testSwitchTab" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="navigation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="navigation" />
+      <option name="MAIN_CLASS_NAME" value="navigation.NavigationTest" />
+      <option name="METHOD_NAME" value="testSwitchTab" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Docker Image" type="docker-deploy" factoryName="docker-image" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="selenium" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Application.BaseTests" />
-      <item itemvalue="Application.LoginTests" />
-      <item itemvalue="TestNG.LoginTests" />
+      <item itemvalue="Docker.Docker Image" />
+      <item itemvalue="TestNG.JavaScriptTest.testScrollToFifthParagraph" />
+      <item itemvalue="TestNG.NavigationTest.testNavigator" />
+      <item itemvalue="TestNG.NavigationTest.testSwitchTab" />
+      <item itemvalue="TestNG.KeysTests.testBackspace" />
       <item itemvalue="TestNG.LoginTests.testSuccessfulLogin" />
-      <item itemvalue="TestNG.DropdownTests" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DropdownTests" />
-        <item itemvalue="TestNG.LoginTests" />
         <item itemvalue="TestNG.LoginTests.testSuccessfulLogin" />
-        <item itemvalue="Application.LoginTests" />
-        <item itemvalue="Application.BaseTests" />
+        <item itemvalue="TestNG.KeysTests.testBackspace" />
+        <item itemvalue="TestNG.NavigationTest.testSwitchTab" />
+        <item itemvalue="TestNG.NavigationTest.testNavigator" />
+        <item itemvalue="TestNG.JavaScriptTest.testScrollToFifthParagraph" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -194,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572728917609</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tutorial: section 5">
+      <created>1585052924614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585052924614</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -212,55 +236,115 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+    <MESSAGE value="tutorial: section 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="tutorial: section 5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="104" key="#Project_Structure" timestamp="1584541564928">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="320" y="104" key="#Project_Structure/0.23.1440.831@0.23.1440.831" timestamp="1584541564928" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1584649023280">
+    <state x="184" y="100" width="1172" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585403241713">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1584649023280" />
+    <state x="184" y="100" width="1172" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.831@0.23.1440.831" timestamp="1585403241713" />
+    <state x="100" y="123" width="1240" height="631" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586811145476">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="100" y="123" width="1240" height="631" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.831@0.23.1440.831" timestamp="1586811145476" />
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1586987472575">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.831@0.23.1440.831" timestamp="1586987472575" />
+    <state x="344" y="41" key="CommitChangelistDialog2" timestamp="1585052923816">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="344" y="41" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1585052923816" />
+    <state x="578" y="321" key="DockerComposeFileDialog" timestamp="1585403194657">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="578" y="321" key="DockerComposeFileDialog/0.23.1440.831@0.23.1440.831" timestamp="1585403194657" />
+    <state x="585" y="339" key="Github.ShareDialog" timestamp="1585053545826">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="585" y="339" key="Github.ShareDialog/0.23.1440.831@0.23.1440.831" timestamp="1585053545826" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1586988183943">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586971503466" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1586988183943" />
     <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1581247574123" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1584649023279">
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1586988183942">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1584649023279" />
+    <state width="1398" height="302" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586971503464" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1586988183942" />
     <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1581247574123" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1584649023278">
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1586988183942">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1584649023278" />
+    <state width="1398" height="302" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586971503462" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1586988183942" />
     <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1581247574122" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1584649023279">
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1586988183943">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1584649023279" />
+    <state width="1398" height="302" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586971503466" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1586988183943" />
     <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1581247574123" />
-    <state x="221" y="77" key="SettingsEditor" timestamp="1584644129039">
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom" timestamp="1586971596134">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="221" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1584644129039" />
-    <state x="397" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1584942234254">
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586971503468" />
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1586971596134" />
+    <state width="1398" height="302" key="GridCell.Tab.1.center" timestamp="1586971596133">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1584942234254" />
+    <state width="1398" height="302" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586971503468" />
+    <state width="1398" height="302" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1586971596133" />
+    <state width="1398" height="302" key="GridCell.Tab.1.left" timestamp="1586971596133">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586971503467" />
+    <state width="1398" height="302" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1586971596133" />
+    <state width="1398" height="302" key="GridCell.Tab.1.right" timestamp="1586971596134">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586971503468" />
+    <state width="1398" height="302" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1586971596134" />
+    <state x="221" y="23" width="1024" height="831" key="SettingsEditor" timestamp="1586972014122">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="221" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586971542738" />
+    <state x="221" y="23" width="1024" height="831" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1586972014122" />
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1585994125922">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1585994125922" />
     <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1582464387042" />
     <state x="503" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585052891225">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="503" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.831@0.23.1440.831" timestamp="1585052891225" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/frames/FrameTests.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
