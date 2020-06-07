@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc5b367e-11d5-4047-bbfc-d8a508c6d002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/selenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AlertsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/DynamicLoadingExample1Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/DynamicLoadingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/FileUploadPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/InfiniteScrollPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/KeyPressesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LargeAndDeepDomPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MultipleWindowsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/WysiwygEditorPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/EventReporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/WindowManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/alerts/AlertTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/alerts/FileUploadTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/frames/FrameTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hover/HoverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javascript/JavaScriptTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/keys/KeysTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/navigation/NavigationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/wait/WaitTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/resources/chromedriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/geckodriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HoversPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HoversPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BaseTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/BaseTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/BaseTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +28,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="yaml" />
     <property name="ignore.preview.features.used" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -218,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585052924614</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TAU [Selenium WebDriver with Java]">
+      <created>1586988863666</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586988863666</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -246,7 +223,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new commit" />
     <MESSAGE value="tutorial: section 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="tutorial: section 5" />
+    <MESSAGE value="TAU [Selenium WebDriver with Java]" />
+    <option name="LAST_COMMIT_MESSAGE" value="TAU [Selenium WebDriver with Java]" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="104" key="#Project_Structure" timestamp="1584541564928">
@@ -265,10 +243,10 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.831@0.23.1440.831" timestamp="1586987472575" />
-    <state x="344" y="41" key="CommitChangelistDialog2" timestamp="1585052923816">
+    <state x="344" y="23" width="846" height="831" key="CommitChangelistDialog2" timestamp="1586988862258">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="344" y="41" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1585052923816" />
+    <state x="344" y="23" width="846" height="831" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586988862258" />
     <state x="578" y="321" key="DockerComposeFileDialog" timestamp="1585403194657">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
@@ -277,29 +255,29 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="585" y="339" key="Github.ShareDialog/0.23.1440.831@0.23.1440.831" timestamp="1585053545826" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1586988183943">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1587032924566">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="1398" height="302" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586971503466" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1586988183943" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1587032924566" />
     <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1581247574123" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1586988183942">
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1587032924565">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="1398" height="302" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586971503464" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1586988183942" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1587032924565" />
     <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1581247574123" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1586988183942">
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1587032924565">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="1398" height="302" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586971503462" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1586988183942" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1587032924565" />
     <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1581247574122" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1586988183943">
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1587032924566">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="1398" height="302" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586971503466" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1586988183943" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1587032924566" />
     <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1581247574123" />
     <state width="1398" height="302" key="GridCell.Tab.1.bottom" timestamp="1586971596134">
       <screen x="0" y="23" width="1440" height="831" />
@@ -326,6 +304,10 @@
     </state>
     <state x="221" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586971542738" />
     <state x="221" y="23" width="1024" height="831" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1586972014122" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586988873980">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586988873980" />
     <state x="397" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1585994125922">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
